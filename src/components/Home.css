@@ -1,0 +1,9 @@
+.nav {
+    display: flex;
+    padding: 60px;
+}
+
+.menuItem {
+    padding-right: 60px;
+    cursor: pointer;
+}
